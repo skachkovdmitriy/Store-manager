@@ -1,4 +1,4 @@
-# 🛒 Demoshopping testing
+# 🛒 Store manager testing
 
 I tested 4 releases of the project <a href="https://testpractice.alexmeshkov.com/dashboard"> Store manager</a>
  and prepared various types of test documentation:
